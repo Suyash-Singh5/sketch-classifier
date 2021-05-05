@@ -4,9 +4,7 @@ from tensorflow.keras.layers import Conv2D, Input, LeakyReLU, Dense, Activation,
 from flask import Flask, request, jsonify
 from flask_cors import CORS, cross_origin
 import json
-import keras
-import tensorflow as tf
-from tensorflow.python.keras.backend import set_session
+
 
 
 
