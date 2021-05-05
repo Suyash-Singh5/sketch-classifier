@@ -6,7 +6,7 @@ Flask-Cors==3.0.10
 tensorflow
 pillow
 joblib
-opencv
+opencv-python
 numpy
 io
 base64
