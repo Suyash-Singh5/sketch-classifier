@@ -8,5 +8,4 @@ pillow
 joblib
 opencv-python
 numpy
-io
-base64
+
