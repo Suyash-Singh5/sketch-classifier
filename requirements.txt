@@ -3,7 +3,7 @@ gunicorn==19.9.0
 Jinja2==2.10.1
 itsdangerous==1.1.0
 Flask-Cors==3.0.10
-tensorflow
+tensorflow-cpu
 pillow
 joblib
 opencv-python
